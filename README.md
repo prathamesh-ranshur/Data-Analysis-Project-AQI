@@ -1,6 +1,3 @@
---->>> Link to publicly accessible AQI Dashboard <<<---
-
-
 # 🌍 Air Quality Index (AQI) Dashboard – Power BI
 
 An interactive Power BI dashboard that visualizes **real-time Air Quality Index (AQI)** data across major Indian cities. The dashboard enables users to explore environmental data by city, pollutant type (PM2.5, PM10), and date range to assess air quality trends over time.
